@@ -1,0 +1,16 @@
+person,videogame,relation,year,console,sales
+mario,mariokart1,character_in,2001,wii,88
+bowser,supermario2,boss_in,2010,ds,100
+mario,supermario1,enemy_in,1999,snes,22
+luigi,supermario2,character_in,2010,ds,100
+bowser,supermario1,enemy_in,1999,snes,22
+wiggler,mariokart1,boss_in,2001,wii,88
+peach,mariokart2,character_in,1989,3ds,6
+waluigi,mariokart1,character_in,2001,wii,88
+waluigi,supermario2,enemy_in,2010,ds,100
+peach,supermario2,character_in,2010,ds,100
+luigi,supermario1,enemy_in,1999,snes,22
+wario,mariokart1,boss_in,1989,wii,88
+wario,supermario1,boss_in,1999,snes,22
+peach,mariokart2,character_in,1989,3ds,6
+wiggler,mariokart2,enemy_in,1989,3ds,6
